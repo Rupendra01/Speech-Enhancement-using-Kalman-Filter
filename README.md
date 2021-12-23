@@ -6,4 +6,4 @@ then just run the rough.m file . it opens the gui file.
 
 study the code to understand what going on .
 
-for any queries msg me rupendrareddybandi2001@gmail.com
+for any queries mail me rupendrareddybandi2001@gmail.com
